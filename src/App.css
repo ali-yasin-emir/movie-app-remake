@@ -240,7 +240,8 @@ html {
 
 @media (max-width: 400px) {
   .search-field {
-    width: 10rem;
+    width: 12rem;
+    font-size: 1.4rem;
   }
 
   .movie-card {
